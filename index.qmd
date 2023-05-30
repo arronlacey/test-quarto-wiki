@@ -1,5 +1,5 @@
 ---
-title: "rcm-wiki"
+title: "Research Community Managers Wiki"
 ---
 
 This is a Quarto website.
