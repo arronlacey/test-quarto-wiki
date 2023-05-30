@@ -2,9 +2,9 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "rcm-wiki",
+    "title": "Research Community Managers Wiki",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+    "text": "Welcome to the Research Community Mangers Wiki."
   },
   {
     "objectID": "about.html",
@@ -12,5 +12,19 @@
     "title": "About",
     "section": "",
     "text": "About this site"
+  },
+  {
+    "objectID": "testpage.html",
+    "href": "testpage.html",
+    "title": "Test Page",
+    "section": "",
+    "text": "This is a test page"
+  },
+  {
+    "objectID": "index.html#community-managers-wiki",
+    "href": "index.html#community-managers-wiki",
+    "title": "Research Community Managers Wiki",
+    "section": "Community Managers Wiki",
+    "text": "Community Managers Wiki\nWelcome to the Research Community Mangers Wiki."
   }
 ]

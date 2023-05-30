@@ -2,6 +2,7 @@
 title: "Research Community Managers Wiki"
 ---
 
-This is a Quarto website.
+![](images/community-managers.png)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Community Managers Wiki
+Welcome to the Research Community Mangers Wiki.
