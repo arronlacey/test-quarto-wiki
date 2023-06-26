@@ -1,8 +1,0 @@
----
-title: "Research Community Managers Wiki"
----
-
-![](images/community-managers.png)
-
-## Community Managers Wiki
-Welcome to the Research Community Managers Wiki.
