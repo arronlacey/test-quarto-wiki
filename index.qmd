@@ -1,5 +1,0 @@
----
-title: "rcm-wiki"
----
-
-This is the Research Community Managers Wiki at The Alan Turing Institute
